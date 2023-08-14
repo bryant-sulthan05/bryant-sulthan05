@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bryant Sulthan Nugroho👋</h1>
 
-<h3 align="center">🚀 About Me</h1>
+<h2>🚀 About Me</h1>
 I have an interest in digital things, like backend developer and I'm also interested in robotics.
 
 ## 🔗 Links
