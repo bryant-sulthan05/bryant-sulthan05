@@ -10,9 +10,9 @@ I have an interest in digital things, like backend developer and I'm also intere
 ## 🛠 Skills
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starry-night05&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="bryant" /></p>
   
-<p align="center"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=starry-night05&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=starry-night05&show_icons=true&bg_color=202129&title_color=fff&text_color=8D8DAA&icon_color=F99417)" alt="bryant" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=starry-night05&show_icons=true&bg_color=202129&title_color=fff&text_color=8D8DAA&icon_color=F99417" alt="bryant" /></p>
   
-<p align="center"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=starry-night05&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only](https://github-readme-streak-stats.herokuapp.com?user=starry-night05&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)https://github-readme-streak-stats.herokuapp.com?user=starry-night05&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats" alt="bryant" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=starry-night05&theme=tokyonight&hide_border=true&border_radius=5)" alt="bryant" /></p>
 
 
 
