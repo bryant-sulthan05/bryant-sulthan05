@@ -3,9 +3,8 @@
 <h2>🚀 About Me</h1>
 I have an interest in digital things, like backend developer and I'm also interested in robotics.
 
-<a href="https://bryant-sulthan05.github.io/portofolio/#portofolio">Tes</a>
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://starry-night05.github.io/profile/](https://bryant-sulthan05.github.io/portofolio/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://bryant-sulthan05.github.io/portofolio/#portofolio])
 
 
 ## 🛠 Skills
